@@ -1,2 +1,0 @@
-# mySpecs
-this is podSpecs
